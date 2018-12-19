@@ -17,10 +17,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.App-title {
+  color: red;
+  text-align: center;
 }
+
 
 @keyframes App-logo-spin {
   from {
