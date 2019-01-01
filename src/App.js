@@ -9,7 +9,7 @@ class App extends Component {
       <div>
           <h1>Header</h1>
           <h2>Content</h2>
-          <h3>This is the Content This is new line..</h3>
+          <h3>This is the Content This is new line this is sample new line</h3>
           <h1>{5+5}</h1>
           <h1>{i == 1 ? 'True!' : 'False'}</h1>
       </div>
